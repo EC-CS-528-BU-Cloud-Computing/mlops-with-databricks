@@ -14,23 +14,24 @@ State Street Financial
 
 ** **
 ## 1. Vision and Goals for the Project
-
+*in progress*
 
 ** **
 ## 2. Users/Personas of the Project
-
+*in progress*
 
 ** **
 ## 3. Scope and Features of the Project
-
+*in progress*
 
 ** **
 ## 4. Solution Concept
-
+*in progress*
 
 ** **
 ## 5. Acceptance criteria
-
+*in progress*
 
 ** **
 ## 6. Release Planning
+*in progress*
