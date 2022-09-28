@@ -1,6 +1,6 @@
 # MLOps with Databricks in Public Clouds
 
-# Team
+**Team**
 
 Boston University - Group 11
 * Parker Dunn (pgdunn@bu.edu)
@@ -12,7 +12,7 @@ Boston University - Group 11
 State Street Financial
 * Ata Turk (aturk@statestreet.com)
 
-## Project Description Template
+## Project Description
 
 ** **
 ## 1. Vision and Goals for the Project
