@@ -2,7 +2,6 @@
 
 **Team**
 
-Boston University - Group 11
 * Parker Dunn (pgdunn@bu.edu)
 * Alan Dautov (dautal@bu.edu)
 * Balaji Sathyanarayanan (balajis@bu.edu)
