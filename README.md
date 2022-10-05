@@ -41,7 +41,8 @@ FOLLOW UP:
 
 ** **
 ## 4. Solution Concept
-*in progress*
+Our solution implies exploring what can Databricks offer in terms of data warehousing, data engineering, data streaming and machine learning. We will evaluate Databricks solutions from ease of transformation, cost, and efficiency perspectives and then give an assesment on whether it is reasonable to use Databricks.
+
 
 ** **
 ## 5. Acceptance criteria
