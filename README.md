@@ -41,7 +41,7 @@ FOLLOW UP:
 
 ** **
 ## 4. Solution Concept
-Our solution implies exploring what can Databricks offer in terms of data warehousing, data engineering, data streaming and machine learning. We will evaluate Databricks solutions from ease of transformation, cost, and efficiency perspectives and then give an assesment on whether it is reasonable to use Databricks.
+MLops is an approach that aims to efficiently deploy, maintain, and monitor machine learning models. Since machine learning lifecycle has many steps such as data ingest, model training, model deployment, it is important for data engineering, data science and ML engineering teams to collaborate synchronously and efficiently. One way to do so is to use Databricks with public clouds such as Microsoft Azure or Amazon Web Services. Databricks allows ata engineers, data scientists, and analysts to work together with the use of collaborative notebooks, IDEs, dashboards, and other tools to access and analyze common underlying data. Our solution implies exploring what can Databricks offer in terms of data warehousing, data engineering, data streaming and machine learning. We will evaluate Databricks solutions from ease of transformation, cost, and efficiency perspectives and then give an assesment on whether it is reasonable to use Databricks.
 
 
 ** **
