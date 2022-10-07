@@ -18,6 +18,7 @@
 ## 2. Users/Personas of the Project
 *in progress*
 Alan - Exploring Microsoft Azure Databricks
+Rifat - Exploring Microsoft Azure Databricks
 
 ** **
 ## 3. Scope and Features of the Project
