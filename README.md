@@ -66,6 +66,3 @@ This stretch goal would broadly involve implementing data processing pipelines, 
 *in progress*
 
 ** **
-## General Questions
-1. What AWS/Azure tools are you looking to use? Is there already data in these sources or are you looking for other products like AWS SageMaker?
-  - Follow up: Would you be interested in using the Databricks version of AutoML (from Datarobot) for example?
