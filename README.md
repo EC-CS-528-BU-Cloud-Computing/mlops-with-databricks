@@ -12,7 +12,7 @@
 
 ** **
 ## 1. Vision and Goals for the Project
-*in progress*
+Our end goal is to give our collaborators a staring point to help them migrate to Databricks. We want to give them enough information and documentation so that it is a seamless process. We will also have to contest databricks against the current platform they are using in order for them to know the advantages of using databricks over the other.
 
 ** **
 ## 2. Users/Personas of the Project
