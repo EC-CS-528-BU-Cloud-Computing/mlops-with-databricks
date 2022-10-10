@@ -12,13 +12,21 @@
 
 ** **
 ## 1. Vision and Goals for the Project
-Our end goal is to give our collaborators a staring point to help them migrate to Databricks. We want to give them enough information and documentation so that it is a seamless process. We will also have to contest databricks against the current platform they are using in order for them to know the advantages of using databricks over the other.
+Our end goal is to give our collaborators a starting point to help them migrate to Databricks. We want to give them enough information and documentation so that it is a seamless process. We will also have to contest databricks against the current platform they are using in order for them to know the advantages of using databricks over the other.
 
 ** **
 ## 2. Users/Personas of the Project
-*in progress*
+
+We will each assume some roles during this project, but we are also expected by our collaborators to be familiar with all aspects of the project. We have been asked to have experience with all aspects of Databricks, even if we may frequent some types of assignments more than others.
+
+It would be difficult not to specialize. We are tasked with working on end-to-end systems (raw data -> production machine learning) on two public cloud platforms. It should be expected that each member of the team will be more familiar with AWS or Azure, though we will strive for equal familiarity in both. Additionally, Databricks can handle many programming lanauges and paradigms (e.g., Apache Spark pipelines & MLflow). We will have to divy up developement likely leading to unintentional specialization.
+
+We have outlined some of the focus areas for each 
+
 Alan - Exploring Microsoft Azure Databricks
 Rifat - Exploring Microsoft Azure Databricks
+
+...**Wait!** ...**I just realized this section is about the "client" not the member of the team working on the project!!!!**
 
 ** **
 ## 3. Scope and Features of the Project
