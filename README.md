@@ -51,6 +51,17 @@ The solution implies exploring what can Databricks offer in terms of data wareho
 3.  
     1. Data Lake Storage houses data of all types, such as structured, unstructured, and semi-structured. It also stores batch and streaming data.
     2. Delta Lake forms the curated layer of the data lake. It stores the refined data in an open-source format.
+    3. Azure Databricks works well with a medallion architecture that organizes data into layers: Bronze: Holds raw data. Silver: Contains cleaned, filtered data. Gold: Stores aggregated data that's useful for business analytics.
+4. The analytical platform ingests data from the disparate batch and streaming sources. (Data preparation, Data exploration, Model preparation, Model training.)
+5. Azure Databricks stores information about models in the MLflow Model Registry. The registry makes models available through batch, streaming, and REST APIs.
+6. Services that work with the data connect to a single underlying data source to ensure consistency. For instance, users can run SQL queries on the data lake with Azure Databricks SQL Analytics. 
+7. Power BI generates analytical and historical reports and dashboards from the unified data platform. 
+8. Users can export gold data sets out of the data lake into Azure Synapse via the optimized Synapse connector. SQL pools in Azure Synapse provide a data warehousing and compute environment.
+9. The solution uses Azure services for collaboration, performance, reliability, governance, and security.
+
+More details here: https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture
+
+
 
 
 ** **
