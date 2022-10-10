@@ -48,9 +48,8 @@ The solution implies exploring what can Databricks offer in terms of data wareho
 
 1. Azure Databricks ingests raw streaming data from Azure Event Hubs.
 2. Data Factory loads raw batch data into Data Lake Storage.
-3. 
-  i. Data Lake Storage houses data of all types, such as structured, unstructured, and semi-structured. It also stores batch and streaming data.
-  ii. Delta Lake forms the curated layer of the data lake. It stores the refined data in an open-source format.
+3.  i. Data Lake Storage houses data of all types, such as structured, unstructured, and semi-structured. It also stores batch and streaming data.
+    ii. Delta Lake forms the curated layer of the data lake. It stores the refined data in an open-source format.
 
 
 ** **
