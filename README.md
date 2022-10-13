@@ -12,7 +12,14 @@
 
 ** **
 ## 1. Vision and Goals for the Project
-Our end goal is to give our collaborators a starting point to help them migrate to Databricks. We want to give them enough information and documentation so that it is a seamless process. We will also have to contest Databricks against the current platform they are using in order for them to know the advantages of using Databricks over the other.
+
+Machine learning is a subset of AI which is extensively leveraged in many practical applications today. A machine learning model is implemented through a machine learning lifecycle. A ML lifecycle is a series of steps which are executed to produce and deploy a machine learning model. A ML pipeline is related to the ML lifecycle. The pipeline is a process to automate the workflow it takes to produce a ML model. It is an iterative process consisting of independent modules which are repeated multiple times to increase the efficiency of the ML model.
+
+Our project is MLOps with Databricks in public clouds. MLOps stands for Machine Learning Operations. It is a core function of Machine Learning engineering, focused on streamlining the process of taking machine learning models to production, and then maintaining and monitoring them. It can also be thought of as a set of practices that aims to deploy and maintain ML models in production efficiently and reliably.
+
+The financial firm we are working with has many in-house built ML pipelines which are centrally managed by different departments on the on-prem MLOps solutions, Datarobot (a ML platform that manages models). Databricks is another platform which can deal with huge amounts of data and we can explore the data through ML models. Databricks has extended capabilities and features when compared with Datarobot. We are trying to investigate the MLOps capabilities of Databricks. We are evaluating the possibility of transitioning MLOps workloads from on-prem Datarobot to public cloud Databricks. We will also replicate some MLOps pipelines deployed in on-prem Datarobot in Databricks on two public clouds. We are trying to explore Databricks and understand whether it is more efficient than Datarobot in handling ML workloads. Solutions will be evaluated from ease of transformation, cost and efficiency perspectives. 
+
+By and large, our end goal is to give our collaborators a starting point to help them migrate to Databricks. We want to give them enough information and documentation so that it is a seamless process. We will also have to contest Databricks against the current platform they are using in order for them to know the advantages of using Databricks over the other.
 
 ** **
 ## 2. Users/Personas of the Project
