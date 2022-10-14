@@ -1,12 +1,17 @@
 # MLOps with Databricks in Public Clouds
 
-**Team**
+## Team
 
 * Parker Dunn (pgdunn@bu.edu)
 * Alan Dautov (dautal@bu.edu)
 * Balaji Sathyanarayanan (balajis@bu.edu)
 * Suyash Bhatia (suyashb@bu.edu)
 * Rifat Maxyutov (rifat555@bu.edu)
+
+## Links to Important Materials
+
+[Bi-weekly sprint presentations (videos)](TBD)
+[Presentations about Databricks features](TBD)
 
 ## Project Description
 
