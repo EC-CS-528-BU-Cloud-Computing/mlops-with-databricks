@@ -10,8 +10,8 @@
 
 ## Links to Important Materials
 
-[Bi-weekly sprint presentations (videos)](TBD)
-[Presentations about Databricks features](TBD)
+[Bi-weekly sprint presentations (videos)](https://github.com/EC-CS-528-BU-Cloud-Computing/mlops-with-databricks/tree/main/class-presentations)  
+[Presentations & Tutorials about Databricks](https://github.com/EC-CS-528-BU-Cloud-Computing/mlops-with-databricks/tree/main/databricks-presentations)
 
 ## Project Description
 
