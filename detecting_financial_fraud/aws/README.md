@@ -5,6 +5,8 @@ This is a space for the AWS team to keep track of work on replicatin gthe "Detec
 \* **Please** * provide clear dated upates as you go.
 
 ### Contributors
-* TBD
+* Parker Dunn
 
 # Updates from AWS Team
+
+- 20 Oct 2022 - Parker uploaded a fully annotated (i.e., includes notes) iPython Notebook from Databricks that includes the entire Chapter 5 assignment from "The Big Book of Machine Learning Use Cases"
