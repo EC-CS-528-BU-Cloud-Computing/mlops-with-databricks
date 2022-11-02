@@ -21,3 +21,8 @@ The associated GitHub Actions workflows seems to be language specific and appear
 GitHub - [`actions/starter_workflows`](https://github.com/actions/starter-workflows/tree/main/ci)
 
 I'm going to see if I can setup some basic CI using GitHub Actions
+.  
+"Sticking points"
+1. You have to choose to run GitHub Actions workflows on GitHub-hosted VMs or machines you host yourself. **Can I host this process on Databricks?**
+  a. "[About GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners)"
+  b. "[About self-hosted runners](https://docs.github.com/en/actions/automating-your-workflow-with-github-actions/about-self-hosted-runners)"
