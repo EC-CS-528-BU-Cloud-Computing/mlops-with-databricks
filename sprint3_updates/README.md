@@ -26,3 +26,16 @@ I'm going to see if I can setup some basic CI using GitHub Actions
 1. You have to choose to run GitHub Actions workflows on GitHub-hosted VMs or machines you host yourself. **Can I host this process on Databricks?**
 * "[About GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners)"
 * "[About self-hosted runners](https://docs.github.com/en/actions/automating-your-workflow-with-github-actions/about-self-hosted-runners)"
+
+#### 11/3 - PGD
+
+Made some headway on learning more about GitHub actions for CI, but got sidetracked before attempting to implement anything.  
+
+I got sidetracked by learning more about MLOps (via [a video](https://www.youtube.com/watch?v=0wT-EJBw2n4) provided via Ata's email)
+* Talks about setting up ModelOperations-type stuff
+* How to set up a framework for ML pipelines that automate the operations with models
+.  
+Takeaways:
+* Sounds like Databricks allows us to use YAML files to create pipelines that define an ML process and we can define any target script, notebook, data, etc. that we need.
+* The code portion of each stage of operations would be in GitHub or Azure DevOps or something...
+* But there seems to be flexible resources for working with models directly in DB!
