@@ -39,3 +39,26 @@ Takeaways:
 * Sounds like Databricks allows us to use YAML files to create pipelines that define an ML process and we can define any target script, notebook, data, etc. that we need.
 * The code portion of each stage of operations would be in GitHub or Azure DevOps or something...
 * But there seems to be flexible resources for working with models directly in DB!
+
+#### 11/5 - PGD
+
+On Friday and Saturday, I tried to create my first GitHub Action.  
+
+You can find the action and associated code in [this repo](https://github.com/pdvnny/mlops-databricks-test-env), which I created separately just for simplicity.  
+.  
+The GitHub action that I created was designed to run checks on very simple sorting algorithms before allowing new code to be merged to the "main" branch of the repository. Basically, the GitHub Action does some very simple unit testing and CI testing.  
+.  
+I was get the GitHub workflow running ... you can see successful operation by clicking on the "Actions" tab of the repo above. I'm still getting comfortable with all possibilities and optimizations.
+
+#### 11/6 - PGD
+
+I'm going to create a video explaining what I have learned about CI/CD on GitHub so far.  
+.  
+Likely content:  
+* Contextualizing why this is important
+* Demo the GitHub Actions CI set up in Databricks
+* This demo is super simple ... what is missing or what might be relevant in the future...
+  - automatic repo updates in DB as a GitHub Action
+  - No continuous deployment checking
+.  
+
