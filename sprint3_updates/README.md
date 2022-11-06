@@ -7,7 +7,7 @@ We also want to plan what and how we are going to do to develop a complete MLops
 # Relevant Videos
 
 * [Sprint 3 Updates/Status]() - An introduction video for the current sprint.
-* [CI & Testing on GitHub]() - *Link incoming* This video discusses some basics of using GitHub Actions. Nothing revoluationary in this video, but it was helpful for understanding code management with Git & GitHub, which will be useful later on.
+* [CI & Testing on GitHub](https://youtu.be/rc7vrvI1EeQ) - This video discusses some basics of using GitHub Actions. Nothing revoluationary in this video, but it was helpful for understanding code management with Git & GitHub, which will be useful later on.
 
 # Chronological Updates
 
