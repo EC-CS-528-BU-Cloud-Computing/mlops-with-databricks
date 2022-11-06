@@ -4,6 +4,11 @@
 We want to set up CI/CD (DevOps) features for Databricks. These operations require features outside of Databricks, so we are famialiarizing ourself with these features and determining how we can make use of them for future work.  
 We also want to plan what and how we are going to do to develop a complete MLops service for at least one ML use case.
 
+# Relevant Videos
+
+* [Sprint 3 Updates/Status]() - An introduction video for the current sprint.
+* [CI & Testing on GitHub]() - *Link incoming* This video discusses some basics of using GitHub Actions. Nothing revoluationary in this video, but it was helpful for understanding code management with Git & GitHub, which will be useful later on.
+
 # Chronological Updates
 
 #### 11/2 - PGD
