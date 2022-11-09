@@ -7,7 +7,7 @@
   - [Google Drive Link](https://drive.google.com/file/d/1VxKQM-q4EnpDp4QImb2M0iDHpKZAaVPU/view?usp=sharing)
   - YouTube Link (*will be added soon*)
 * Sprint 3 - Sunday, November 6, 2022 
-  - [Google Drive Link]()
+  - [Google Drive Link](https://drive.google.com/file/d/1u0em8uM0xSH8blYeY0ULirmlRGM1IpG2/view?usp=share_link)
 * Sprint 4 - Sunday, November 20, 2022 
   - [Google Drive Link]()
 * Sprint 5 - Sunday, December 4, 2022 
