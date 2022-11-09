@@ -1,0 +1,5 @@
+We need Databricks and a Devops tool to implement CI/CD practices in our project.
+The code is written and updated on the Databricks platform.
+The CI/CD pipeline is created using a Devops tool offered by Amazon, AWS Codestar.
+AWS Codestar creates a separate repository to store the code.
+The link for the Github repository is provided below:
