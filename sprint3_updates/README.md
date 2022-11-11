@@ -9,7 +9,8 @@ We also want to plan what and how we are going to do to develop a complete MLops
 * [Sprint 3 Updates/Status](https://youtu.be/73N3BCdvZJ0) - An introduction video for the current sprint.
 * [CI & Testing on GitHub](https://youtu.be/rc7vrvI1EeQ) - This video discusses some basics of using GitHub Actions. Nothing revoluationary in this video, but it was helpful for understanding code management with Git & GitHub, which will be useful later on.
 * [Plans for Sprint 4 & 5 (*Short Version*)](https://youtu.be/gjP6LUyXc5k) - This video discusses our plans for the remainder of the semester. We have explored the Databricks platform and operations tools that integrate with Databricks. Now, it is time to put it all together and create a machine learning service on Databricks with help from GitHub and public clouds.
-* [Plans for Sprint 4 & 5 (*Long Version*)]() - *coming soon*
+* [Plans for Sprint 4 & 5 (*Long Version*)](https://www.youtube.com/watch?v=tMeLRTDAm7M&list=PLu7emLlwAOx85qI-iuoyf5-CUZYc0sTG-&index=7) - This version is more thorough.
+  - [Operations Part of the video above](https://www.youtube.com/watch?v=FqEBg887CIs&list=PLu7emLlwAOx85qI-iuoyf5-CUZYc0sTG-&index=5&t=1s)
 
 # Chronological Updates
 
