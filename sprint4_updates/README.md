@@ -1,6 +1,6 @@
 # Updates for Sprint 4
 
-**GOALS**  
+## GOALS  
 
 ### Make progress on creating a financial fraud ML service.
 
@@ -40,3 +40,20 @@ I came up with this list very quickly, so the structure might not be very logica
 #### PGD - Nov 16
 
 * First, working on setting up automatic repo updates in Databricks using the Repos API
+  - For now this was the only thing that I got to work on... GitHub actions was giving me lots of problems
+  - I have a working action for now, but I was having a lot of trouble with syntax and formatting
+  - DECISION: I am going to use `databricks-cli` to perform interaction between GitHub Action and Databricks
+  - The `databricks-cli` is an experimental service that allows python scripts to interact with the Databricks APIs
+  
+NEXT UP:
+1. Continue working on Databricks automatic updates
+
+Resources
+* GitHub Actions
+  - [Python GitHub Actions template](https://github.com/cicirello/python-github-action-template/blob/main/.github/workflows/build.yml)
+  - [Python Build and Test GitHub Action](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
+* Databricks
+  - [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html)
+  - [Databricks Repos API](https://docs.databricks.com/dev-tools/api/latest/repos.html)
+ 
+ 
