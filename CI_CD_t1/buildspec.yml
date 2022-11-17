@@ -1,0 +1,3 @@
+# This yml file is a text file written in YAML data serialization language
+# YAML is used to create configuration files
+# This is a configuration file which defines the environment and other basic settings we are using to create a CI/CD pipeline
