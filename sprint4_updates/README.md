@@ -83,3 +83,12 @@ Locked down the automatic Databricks repos updates! It's not perfect, but at lea
   
 * I will make a video on interacting with the Databricks API
 
+Made some headway in setting up the code/structure that is the foundation of the ML model side of operations.
+* There is a lot of setup with YAML files and Notebooks that I am gettting used to ... progress might be a little slow.
+
+Here are some of the resources that I have been looking ata:
+1. [MLflow Classification Task template](https://github.com/mlflow/recipes-classification-template)
+  - A new version of something that was in an MLOps demo - the old version is  [here](https://github.com/mlflow/mlp-regression-template)
+2. MLflow recipes - these seem to be the recommended structure for setting up robust MLOps configurations
+  - [MLflow recipes - Quickstart](https://mlflow.org/docs/latest/recipes.html#quickstarts)
+  - [MLflow recipes - Templates](https://mlflow.org/docs/latest/recipes.html#recipe-templates)
