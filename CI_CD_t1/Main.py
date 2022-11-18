@@ -3,9 +3,10 @@
 
 # COMMAND ----------
 
-arr = [3, 2, 1]
-bubbleSort(arr)
+arr=[2,67,1,56,61,10]
+print(arr)
 
 # COMMAND ----------
 
+bubbleSort(arr)
 print(arr)
