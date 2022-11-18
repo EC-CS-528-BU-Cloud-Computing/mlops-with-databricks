@@ -70,3 +70,16 @@ Resources:
 * Using `curl` documentation
   - [ReqBin](https://reqbin.com/req/c-1n4ljxb9/curl-get-request-example)
   - [Curl.se](https://curl.se/docs/httpscripting.html)
+  
+#### PGD - Nov 18
+
+Locked down the automatic Databricks repos updates! It's not perfect, but at least it works.
+* Benefits
+  - I feel like I can continue to find robust ways to work with the Databricks APIs. It was hard to get familiar with it at first, but it's getting easier each time I try to use it.
+* Problems
+  - I am **SEVERELY** lacking SECURITY
+  - I am currently storing a Databricks access token in a public manner ... As soon as I get a chance, I need to look into using a more secure method. I think there is something called secrets on GitHub that protects private information.
+  - I am going to remove the access granted to the current access token very soon!!
+  
+* I will make a video on interacting with the Databricks API
+
