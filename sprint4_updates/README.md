@@ -33,7 +33,7 @@ I came up with this list very quickly, so the structure might not be very logica
 
 # Relevant Videos
 
-
+*Nothing yet*
 
 # Chronological Updates
 
@@ -56,4 +56,17 @@ Resources
   - [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html)
   - [Databricks Repos API](https://docs.databricks.com/dev-tools/api/latest/repos.html)
  
- 
+#### PGD - Nov 17
+
+* First session today (I didn't have much time, but) I made some progress. Most importantly, I think I understand how to use the Databricks APIs.
+* The Databricks documentation [here](https://docs.databricks.com/dev-tools/api/latest/index.html) is actually pretty helpful ... I had some initial trouble/confusion due to my lack of experience working with APIs ... the docs were just a little hard to read.
+* Anyway, I'm believe I have the authentication system down and should be able to get do some GET/POST requests to the Databricks APIs
+  - I'll look into converting them to Python scripts too ... not sure when though.
+
+Resources:
+* [Databricks API Docs page](https://docs.databricks.com/dev-tools/api/latest/index.html)
+  * [Repos API](https://docs.databricks.com/dev-tools/api/latest/repos.html)
+* [Databricks API Authentication information](https://docs.databricks.com/dev-tools/api/latest/authentication.html)
+* Using `curl` documentation
+  - [ReqBin](https://reqbin.com/req/c-1n4ljxb9/curl-get-request-example)
+  - [Curl.se](https://curl.se/docs/httpscripting.html)
