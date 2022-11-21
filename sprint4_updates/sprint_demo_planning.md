@@ -19,3 +19,13 @@
     3. I show how the update shows up in Databricks by using the Repos API even though I did not manual perform any git actions that would update the repos in Databricks.
 
 *I'll provide more content shortly too ... gotta go back to my other assignment*
+
+### Rifat 
+* development environemnt in Azure DevOps 
+* Pull request 
+
+### Alan 
+* showing what happens after the pull request in Azure DevOps, 
+* staging 
+* unit tests
+* next steps (write more tests, mlflow, pipeline maintenance) 
