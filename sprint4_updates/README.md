@@ -33,7 +33,7 @@ I came up with this list very quickly, so the structure might not be very logica
 
 # Relevant Videos
 
-*Nothing yet*
+* [A video on triggering actions in Databricks from external sources (GitHub in this case)](https://youtu.be/LMruWIGrgek)
 
 # Chronological Updates
 
