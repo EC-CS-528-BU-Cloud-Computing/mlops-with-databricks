@@ -35,6 +35,10 @@ To Do
 
 ## `steps/`
 
+### `ingest.py`
+
+- [ ] Can I use this script to "balance" the data? Parse out an equal number of positive and negative samples.
+
 ### `transformer.py`
 
 ### `train.py`
