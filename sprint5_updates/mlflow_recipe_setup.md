@@ -21,4 +21,17 @@ To Do
 
 ## `profiles/`
 
+### `local.yaml`
+
+Defined in this file
+- Experiment information (name, tracking uri - storage loc for experiment, artifact location)
+- Ingestion configuration
+
+To Do
+- [ ] Set up scoring data if I want to evaluate data at the same time
+
 ## `steps/`
+
+### `transformer.py`
+
+### `train.py`
