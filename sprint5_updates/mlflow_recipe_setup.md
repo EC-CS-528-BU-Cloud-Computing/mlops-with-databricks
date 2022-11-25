@@ -19,6 +19,9 @@ To Do
 - [ ] Set up dataset to use for automatic predictions and model scoring
 - [ ] RE-CONFIGURE how data is split. (We need specific styles of data splits eventaully)
 
+Fixes
+- [ ] If using a cross validator works, I think I should only split the data into training and testing (no validation)
+
 ## `profiles/`
 
 ### `local.yaml`
@@ -35,3 +38,6 @@ To Do
 ### `transformer.py`
 
 ### `train.py`
+
+Script has one method: `estimator_fn()`
+- This script creates a decision tree classifier and uses a dataframe passed as an input to train a model with cross validation
